@@ -1,0 +1,14 @@
+layout_spectrum: 0.6358956671319902
+typography_spectrum: 0.26014656969346106
+color:
+  brandStrength: 0.3519589623901993
+  lightness: 0.6213497298303992
+  saturation: 0.8189939216244966
+  rhythmicContrast: 0.4702185543719679
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: litas
