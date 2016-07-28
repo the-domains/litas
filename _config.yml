@@ -1,4 +1,3 @@
-layout_spectrum: 0.6358956671319902
 typography_spectrum: 0.26014656969346106
 color:
   brandStrength: 0.3519589623901993
@@ -11,5 +10,7 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.6358956671319902
 name: litas
 title: LITAS
+description: Lithuanian International Theatre Arts Society
